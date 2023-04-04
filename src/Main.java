@@ -10,7 +10,7 @@ public class Main {
         System.out.println(result);
         sum1++;
         sum2-= 2;
-        // Можна зменшити число на 2 використовуючи ще такий спосіб  (sum2-- двічі)
+        // Можна зменшити число на 2 використовуючи ще такий спосіб  (sum2--; sum2--;)
         System.out.println(sum1);
         System.out.println(sum2);
 
